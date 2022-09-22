@@ -1,0 +1,10 @@
+h1 {
+    color: blueviolet;
+    font-size: 50px;
+    background-color: bisque;
+    text-align: center;
+    padding: 50px;
+    border: 2px solid yellow;
+    margin-left: 500px;
+    margin-right: 500px;
+}
